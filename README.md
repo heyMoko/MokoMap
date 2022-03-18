@@ -2,13 +2,11 @@
 🗺️ Coroutine과 retrofit, POI, 구글맵을 이용한 위치검색 앱 🗺️
 
 ## 개발환경
-
 * OS : windows 10 pro
 * IDE : Android Studio
 * Language : Kotlin
 
 ## 사용한 것
-
 * Coroutine
 * retrofit
 * Tmap POI
